@@ -1,8 +1,8 @@
 def chat():
-	print("no way")
+	pass
 
 def foo():
 	pass
 
 def bar():
-	pass
+	passat'
