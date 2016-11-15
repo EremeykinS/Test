@@ -1,5 +1,6 @@
 def chat():
 	print("no way")
+	print("Danger!!!")
 
 def foo():
 	pass
