@@ -1,5 +1,5 @@
 def chat():
-	pass
+	print("no way")
 
 def foo():
 	pass
